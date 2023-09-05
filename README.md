@@ -1,8 +1,9 @@
-# bitfinex-assignment
+### Bitfinex - Blockchain Integration Specialist
 
-### Bitfinex - Blockchain Integration Specialist  
+npm install
 
-npm install  
-npm start  
-docker build -t bitfinex-template  
+npm start
+
+docker build -t bitfinex-template
+
 docker run -p 3000:3000 bitfinex-template
